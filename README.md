@@ -3,6 +3,11 @@
 
 ---
 
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/tyler-estep-18a916157/)
+
+---
+
 ## 🎓 Education
 **Bachelor of Science in Information Technology (BSIT)**  
 *Graduated 2025*
@@ -48,8 +53,4 @@
 - [RDP Monitoring & Geo-Map Dashboard in Splunk](https://github.com/tylerestep3/ec2-splunk-honeypot)<br><br>
   > Deployed a Windows EC2 instance as an RDP honeypot, forwarded Security Event Logs to Splunk Cloud, analyzed real-world failed login attempts, and visualized global attack patterns using a dynamic geo‑map dashboard.
 
----
-
-## 📫 Connect with Me
-- **LinkedIn:** *https://www.linkedin.com/in/tyler-estep-18a916157/*
 
