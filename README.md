@@ -23,28 +23,19 @@
 - **ITIL 4 Foundation**
 - **LPI Linux Essentials**
 
----
-
-## 🔍 Focus Areas
-- Cybersecurity Operations & Monitoring  
-- SIEM Analysis
-- Network Security & Traffic Analysis  
-- Windows & Linux Administration  
-- Cloud Security
-
----
-
 ## 🛠️ Tech & Tools
 
 | Category | Tools & Platforms |
 |---------|------------------|
-| Operating Systems | Windows Server, Linux, Microsoft 365, Google Workspace |
-| Networking & Security | Active Directory, Group Policy, DNS, DHCP, SonicWall, Cisco, UniFi, CrowdStrike, Windows Defender |
-| Cloud & Virtualization | AWS, Azure, Hyper-V |
+| Operating Systems | Windows Server, Linux, MacOS |
+| Networking & Security | Active Directory, Group Policy, DNS, DHCP, SonicWall, UniFi, CrowdStrike, Windows Defender |
+| Cloud & Virtualization | AWS, Azure, Hyper-V, VMware |
 | Infrastructure & Storage | NAS, RDP, Firewalls, VLANs |
 | Scripting / Automation | PowerShell, Bash |
-| Databases | SQL |
-| Professional Skills | Systems Administration, Network Security, Infrastructure Management, Cloud Platforms, Virtualization, Monitoring & Troubleshooting, Technical Support, Documentation |
+| Databases | SQL (MySQL, PostgreSQL, MSSQL) |
+| Web Development | PHP, HTML, CSS, Laravel, JavaScript |
+| Productivity & Collaboration | Microsoft 365, Google Workspace |
+| Professional Skills | Systems Administration, Network Security, Infrastructure Management, Cloud Platforms, Virtualization, Monitoring & Troubleshooting, Technical Support, Documentation, Dashboard & Reporting Tools |
 
 ---
 
