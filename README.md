@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tyler!  
-**IT Professional | Systems & Network Administration | Security-Focused | Cloud & Infrastructure**
+**IT Professional | Systems & Network Administration | Security | Cloud & Infrastructure**
 
 ---
 
