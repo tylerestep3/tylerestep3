@@ -31,7 +31,7 @@
 | Networking & Security | Active Directory, Group Policy, DNS, DHCP, SonicWall, UniFi, CrowdStrike, Windows Defender |
 | Cloud & Virtualization | AWS, Azure, Hyper-V, VMware |
 | Infrastructure & Storage | NAS, RDP, Firewalls, VLANs |
-| Scripting / Automation | PowerShell, Bash |
+| Scripting / Automation | PowerShell, Bash, Python |
 | Databases | SQL (MySQL, PostgreSQL, MSSQL) |
 | Web Development | PHP, HTML, CSS, Laravel, JavaScript |
 | Productivity & Collaboration | Microsoft 365, Google Workspace |
