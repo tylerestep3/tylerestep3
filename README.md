@@ -28,7 +28,7 @@
 | Category | Tools & Platforms |
 |---------|------------------|
 | Operating Systems | Windows Server, Linux, MacOS |
-| Networking & Security | Active Directory, Group Policy, DNS, DHCP, SonicWall, UniFi, CrowdStrike, Windows Defender |
+| Networking & Security | Active Directory, Group Policy, DNS, DHCP, SonicWall, UniFi, CrowdStrike, Windows Defender, Splunk, Nessus |
 | Cloud & Virtualization | AWS, Azure, Hyper-V, VMware |
 | Infrastructure & Storage | NAS, RDP, Firewalls, VLANs |
 | Scripting / Automation | PowerShell, Bash, Python |
