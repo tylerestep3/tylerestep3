@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Tyler!  
+# Tyler Estep 
 **IT Professional | Systems & Network Administration | Security | Cloud & Infrastructure**
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/tyler-estep-18a916157/)
 
 ---
 
-## 🎓 Education
+## Education
 **Bachelor of Science in Information Technology (BSIT)**  
 *Graduated 2025*
 
 ---
 
-## 🛡️ Certifications
+## Certifications
 - **CompTIA Security+**
 - **CompTIA Network+**
 - **CompTIA A+**
@@ -23,7 +23,7 @@
 - **ITIL 4 Foundation**
 - **LPI Linux Essentials**
 
-## 🛠️ Tech & Tools
+## Tech & Tools
 
 | Category | Tools & Platforms |
 |---------|------------------|
@@ -39,7 +39,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 - [RDP Monitoring & Geo-Map Dashboard in Splunk](https://github.com/tylerestep3/ec2-splunk-honeypot)<br><br>
   > Deployed a Windows EC2 instance as an RDP honeypot, forwarded Security Event Logs to Splunk Cloud, analyzed real-world failed login attempts, and visualized global attack patterns using a dynamic geo‑map dashboard.
